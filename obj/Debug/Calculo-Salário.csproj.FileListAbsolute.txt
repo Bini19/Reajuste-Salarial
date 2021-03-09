@@ -1,0 +1,7 @@
+C:\Users\Dev\source\repos\Calculo-Salário\bin\Debug\Calculo-Salário.exe.config
+C:\Users\Dev\source\repos\Calculo-Salário\bin\Debug\Calculo-Salário.exe
+C:\Users\Dev\source\repos\Calculo-Salário\bin\Debug\Calculo-Salário.pdb
+C:\Users\Dev\source\repos\Calculo-Salário\obj\Debug\Calculo-Salário.csprojAssemblyReference.cache
+C:\Users\Dev\source\repos\Calculo-Salário\obj\Debug\Calculo-Salário.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\Calculo-Salário\obj\Debug\Calculo-Salário.exe
+C:\Users\Dev\source\repos\Calculo-Salário\obj\Debug\Calculo-Salário.pdb
